@@ -1,7 +1,7 @@
 # PRBContracts [![GitHub Actions][gha-badge]][gha] [![Foundry][foundry-badge]][foundry] [![License: MIT][license-badge]][license]
 
-[gha]: https://github.com/PaulRBerg/prb-contracts/actions
-[gha-badge]: https://github.com/PaulRBerg/prb-contracts/actions/workflows/ci.yml/badge.svg
+[gha]: https://github.com/FatherMonkey916/prb-contracts/actions
+[gha-badge]: https://github.com/FatherMonkey916/prb-contracts/actions/workflows/ci.yml/badge.svg
 [foundry]: https://getfoundry.sh/
 [foundry-badge]: https://img.shields.io/badge/Built%20with-Foundry-FFDB1C.svg
 [license]: https://opensource.org/licenses/MIT
@@ -68,8 +68,8 @@ contract MyToken is ERC20, ERC20Permit {
 
 ## Contributing
 
-Feel free to dive in! [Open](https://github.com/PaulRBerg/prb-proxy/issues/new) an issue,
-[start](https://github.com/PaulRBerg/prb-proxy/discussions/new) a discussion or submit a PR.
+Feel free to dive in! [Open](https://github.com/FatherMonkey916/prbs-contract/issues/new) an issue,
+[start](https://github.com/FatherMonkey916/prbs-contract/discussions/new) a discussion or submit a PR.
 
 ### Pre Requisites
 
@@ -119,7 +119,7 @@ of this codebase.
 
 ### Contact
 
-If you discover any bugs or security issues, please report them via [Telegram](https://t.me/PaulRBerg).
+If you discover any bugs or security issues, please report them via [Telegram](https://t.me/airspeed_1e10).
 
 ## Related Efforts
 
