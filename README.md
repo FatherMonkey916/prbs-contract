@@ -26,7 +26,7 @@ win-win situation for both of us.
 First, run the install step:
 
 ```sh
-forge install --no-commit PaulRBerg/prb-contracts@v5
+forge install --no-commit FatherMonkey916/prb-contracts@v5
 ```
 
 Your `.gitmodules` file should now contain the following entry:
@@ -35,7 +35,7 @@ Your `.gitmodules` file should now contain the following entry:
 [submodule "lib/prb-contracts"]
   branch = "v5"
   path = "lib/prb-contracts"
-  url = "https://github.com/PaulRBerg/prb-contracts"
+  url = "https://github.com/FatherMonkey916/prb-contracts"
 ```
 
 Finally, add this to your `remappings.txt` file:
@@ -87,7 +87,7 @@ In addition, familiarity with [Solidity](https://soliditylang.org/) is requisite
 Clone this repository including submodules:
 
 ```sh
-$ git clone --recurse-submodules -j8 git@github.com:PaulRBerg/prb-contracts.git
+$ git clone --recurse-submodules -j8 git@github.com:FatherMonkey916/prb-contracts.git
 ```
 
 Then, inside the project's directory, run this to install the Node.js dependencies:
